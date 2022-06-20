@@ -1,0 +1,13 @@
+Configurações git
+
+ Setar usuário e email
+ 
+git config --global user.name "nome do usuário"
+git config --global user.email email@email.com
+
+git config --list
+
+1 - Iniciar repositório (git init)
+2 - Rastreando os arquivos (git status)
+    2.1 git add . adiciona todos os arquivos que estão em rastreio 
+    2.2 git add.nome.txt    //adicionar um unico arquivo pelo nome
